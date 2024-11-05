@@ -1,0 +1,11 @@
+{
+  "name": "todo-mvc-auth",
+  "version": "1.0.0",
+  "description": "Fullstack CRUD application with MVC structure and authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Hosoda",
+  "license": "MIT"
+}
